@@ -46,3 +46,8 @@ The part of checkpoints of paper can be found in [Google Drive](https://drive.go
 
 This repo benefits from awesome works of [CIFAR100](https://github.com/weiaicunzai/pytorch-cifar100), [timm](https://github.com/rwightman/pytorch-image-models) [DeepLabV3](https://github.com/fregu856/deeplabv3),
 [ConvNeXt](https://github.com/facebookresearch/ConvNeXt).
+
+
+## Email
+
+lagarto@mail.nwpu.edu.cn
