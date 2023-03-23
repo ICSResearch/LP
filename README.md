@@ -40,6 +40,20 @@ new_net = upgrade.new_net
 
 The part of checkpoints of paper can be found in [Google Drive](https://drive.google.com/drive/folders/1wrzpuVms5Dfkfqh6Ziersmo7blNVx7Sf?usp=sharing). The all checkpoints of paper can be found in [Baidu Drive](https://pan.baidu.com/s/1aGO8ah-l7CG4wBWoOoQ4EA?pwd=pn6o).
 
+## Cite
+
+```
+@article{NING2023106048,
+title = {Learning-based padding: From connectivity on data borders to data padding},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {121},
+pages = {106048},
+year = {2023},
+issn = {0952-1976},
+author = {Chao Ning and Hongping Gan and Minghe Shen and Tao Zhang},
+}
+```
+
 
 
 ## Acknowledgement
