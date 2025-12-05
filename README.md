@@ -1,7 +1,6 @@
 # LP
 The implementation of Learning-based Padding: From Connectivity on Data Borders to Data Padding.
 
-111111111111
 ## Statement
 - You can find LPC/LPA module in learning_padding.py
 
